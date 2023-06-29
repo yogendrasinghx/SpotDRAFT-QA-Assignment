@@ -1,6 +1,8 @@
 <body>
   <h1>UI Automation Test - Readme</h1>
 
+  [![Demo Video](https://raw.githubusercontent.com/yogendrasinghx/SpotDRAFT-QA-Assignment/main/demo/demo.mp4)](https://raw.githubusercontent.com/yogendrasinghx/SpotDRAFT-QA-Assignment/main/demo/demo.mp4)
+
   <h2>Assignment</h2>
   <p>
     The goal of this assignment is to write UI automation tests to validate the following scenario on goodreads.com:
