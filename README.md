@@ -103,12 +103,4 @@ cd your-project/
   <li>Make sure to have a compatible version of Python installed.</li>
   <li>It is recommended to set up a virtual environment before installing the project dependencies using pip.</li>
 </ul>
-
-
-  <h2>Notes</h2>
-  <ul>
-    <li>Ensure that you have an internet connection during the test execution.</li>
-    <li>Make sure to update the necessary variables (e.g., email, password, book details) in the test code.</li>
-  </ul>
 </body>
-</html>
